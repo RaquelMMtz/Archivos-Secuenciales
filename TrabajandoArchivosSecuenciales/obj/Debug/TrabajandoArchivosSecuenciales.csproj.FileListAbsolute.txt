@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\TrabajandoArchivosSecuenciales\bin\Debug\TrabajandoArchivosSecuenciales.exe.config
+C:\Users\USER\source\repos\TrabajandoArchivosSecuenciales\bin\Debug\TrabajandoArchivosSecuenciales.exe
+C:\Users\USER\source\repos\TrabajandoArchivosSecuenciales\bin\Debug\TrabajandoArchivosSecuenciales.pdb
+C:\Users\USER\source\repos\TrabajandoArchivosSecuenciales\obj\Debug\TrabajandoArchivosSecuenciales.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\TrabajandoArchivosSecuenciales\obj\Debug\TrabajandoArchivosSecuenciales.DialogBoxAltas.resources
+C:\Users\USER\source\repos\TrabajandoArchivosSecuenciales\obj\Debug\TrabajandoArchivosSecuenciales.Form1.resources
+C:\Users\USER\source\repos\TrabajandoArchivosSecuenciales\obj\Debug\TrabajandoArchivosSecuenciales.Properties.Resources.resources
+C:\Users\USER\source\repos\TrabajandoArchivosSecuenciales\obj\Debug\TrabajandoArchivosSecuenciales.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\TrabajandoArchivosSecuenciales\obj\Debug\TrabajandoArchivosSecuenciales.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\TrabajandoArchivosSecuenciales\obj\Debug\TrabajandoArchivosSecuenciales.exe
+C:\Users\USER\source\repos\TrabajandoArchivosSecuenciales\obj\Debug\TrabajandoArchivosSecuenciales.pdb
+C:\Users\USER\source\repos\TrabajandoArchivosSecuenciales\obj\Debug\TrabajandoArchivosSecuenciales.DialogBoxBuscarEspecialidad.resources
+C:\Users\USER\source\repos\TrabajandoArchivosSecuenciales\obj\Debug\TrabajandoArchivosSecuenciales.DialogBoxBuscarNombre.resources
